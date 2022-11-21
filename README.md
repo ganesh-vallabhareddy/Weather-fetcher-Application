@@ -1,6 +1,6 @@
 # Weather-fetcher-Application
 
-## This Application is used to show the weather condtitions of the city which you want to ! 
+## This Application is used to show the Current weather condtitions of any city present in the World ! 
 
 ### 1) All the Confidential information about cities and their current weather conditions is present in this weather API - "https://openweathermap.org/api" 
 ### 2) This information is present in JSON, HTML, XML formats.
@@ -17,7 +17,7 @@
 ### Example 2: Current Weather Conditions of London
 ![image](https://user-images.githubusercontent.com/110174850/203134861-0589ff5a-cb2a-481b-83d8-a00cbaa3b733.png)
 
-### Example 3: This message gets displayed if you entered wrong city name
+### Example 3: This message gets displayed if you enter any wrong city name
 ![kerela_ex](https://user-images.githubusercontent.com/110174850/203135236-08cd0cd7-d4b6-443d-8aeb-9c767091ab1a.jpg)
 
 ## Therefore, In this way you can display the Current weather conditions of any city in the entire world.. by making requests using python from the weather API!!! 
